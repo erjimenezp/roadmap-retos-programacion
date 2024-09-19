@@ -1,0 +1,18 @@
+# Los comentarios se realizan con el caracter # al principio y el sitio web oficial de Python es "https://www.python.org/"
+# Los comentarios solo pueden ser dados en una línea. La línea que contiene el caracter especial "#"
+# Vamos a crear una variable que contenga un número
+primera_variable = 2
+print ("Mi primera Variable es ", primera_variable)
+# Crear variables representando todos los tipos de datos primitivos del lenguaje (cadenas de texto, enteros, booleanos...).
+# Los tipos de datos primitivos en Python son: enteros, flotantes, booleanos y cadenas de texto.
+a = 1 #Entero
+print (a)
+pi = 3.14159 #Flotante - Decimal
+print (pi)
+c = a > pi #Booleano
+print (c)
+hola = "Hola" #Texto
+lenguaje_programacion = "Python"
+print (hola)
+# Ejemplo de impresión ("¡Hola, [y el nombre de tu lenguaje]!")
+print ("¡" + hola + " , " + lenguaje_programacion + "!")
